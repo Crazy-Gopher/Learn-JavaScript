@@ -1,0 +1,9 @@
+https://nodejs.org/en/download/
+Donwload msi file and install nodejs
+node main.js
+
+npm install -g create-react-app
+npx create-react-app myfirstreact
+cd myfirstreact
+npm start 
+localhost:3000
